@@ -1,7 +1,7 @@
-Descripción de proyecto
+Descripción del proyecto
 Relizamos los analisis de los datos y los presentamos de dos maneras:
-1. histograma con st.header Venta de coches
-2. Gráfico de dispersión st.header Modelos de autos
+1. Construimos un histograma con st.header Venta de coches
+2. Construimos un Gráfico de dispersión st.header Modelos de autos
 
 Los cuales encontramos en el siguiente link: 
 RENDER
